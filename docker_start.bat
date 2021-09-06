@@ -1,0 +1,1 @@
+wsl -d Ubuntu-20.04 -u dt sudo service docker start
